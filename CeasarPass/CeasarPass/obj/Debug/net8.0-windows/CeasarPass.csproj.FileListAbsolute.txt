@@ -1,0 +1,16 @@
+D:\откатики\CeasarPass\CeasarPass\obj\Debug\net8.0-windows\CeasarPass.MainForm.resources
+D:\откатики\CeasarPass\CeasarPass\obj\Debug\net8.0-windows\CeasarPass.csproj.GenerateResource.cache
+D:\откатики\CeasarPass\CeasarPass\obj\Debug\net8.0-windows\CeasarPass.GeneratedMSBuildEditorConfig.editorconfig
+D:\откатики\CeasarPass\CeasarPass\obj\Debug\net8.0-windows\CeasarPass.AssemblyInfoInputs.cache
+D:\откатики\CeasarPass\CeasarPass\obj\Debug\net8.0-windows\CeasarPass.AssemblyInfo.cs
+D:\откатики\CeasarPass\CeasarPass\obj\Debug\net8.0-windows\CeasarPass.csproj.CoreCompileInputs.cache
+D:\откатики\CeasarPass\CeasarPass\bin\Debug\net8.0-windows\CeasarPass.exe
+D:\откатики\CeasarPass\CeasarPass\bin\Debug\net8.0-windows\CeasarPass.deps.json
+D:\откатики\CeasarPass\CeasarPass\bin\Debug\net8.0-windows\CeasarPass.runtimeconfig.json
+D:\откатики\CeasarPass\CeasarPass\bin\Debug\net8.0-windows\CeasarPass.dll
+D:\откатики\CeasarPass\CeasarPass\bin\Debug\net8.0-windows\CeasarPass.pdb
+D:\откатики\CeasarPass\CeasarPass\obj\Debug\net8.0-windows\CeasarPass.dll
+D:\откатики\CeasarPass\CeasarPass\obj\Debug\net8.0-windows\refint\CeasarPass.dll
+D:\откатики\CeasarPass\CeasarPass\obj\Debug\net8.0-windows\CeasarPass.pdb
+D:\откатики\CeasarPass\CeasarPass\obj\Debug\net8.0-windows\CeasarPass.genruntimeconfig.cache
+D:\откатики\CeasarPass\CeasarPass\obj\Debug\net8.0-windows\ref\CeasarPass.dll
